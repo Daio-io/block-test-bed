@@ -3,19 +3,25 @@
     {
       "renderType": "header",
       "data": {
-        "url": "http://www.bbc.co.uk/sport",
-        "title": "hello"
+        "title": "Anthony Foley: Munster coach's death an 'outrageous loss'",
+        "author": {
+          "name": "Tom English",
+          "location": "BBC Scotland",
+          "image": "http://c.files.bbci.co.uk/173EA/production/_90901259_tomenglish200bw.jpg"
+        },
+        "date": "16 Oct",
+        "category": "Rugby Union"
       }
     },
     {
-      "renderType": "webview",
+      "renderType": "image",
       "data": {
-        "url": "http://m.bbc.co.uk/sport/formula1/37298242.app",
-        "title": "hello"
+        "url": "http://ichef.bbci.co.uk/onesport/cps/800/cpsprodpb/BDAA/production/_91945584_foley_getty.jpg",
+        "caption": "Anthony Foley (centre) scored five tries in 62 Tests for Ireland"
       }
     },
     {
-      "renderType": "webview",
+      "renderType": "body",
       "data": {
         "url": "http://m.bbc.co.uk/sport/formula1.app",
         "title": "hello"
